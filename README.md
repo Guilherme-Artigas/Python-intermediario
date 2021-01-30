@@ -1,2 +1,2 @@
-# Python-intermediario
- Mais Exercícios em python
+# Phyton-3-Intermediario
+ Laços em Phyton
